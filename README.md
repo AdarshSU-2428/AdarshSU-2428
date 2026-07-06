@@ -7,9 +7,7 @@ Hope you're having a wonderful day and staying healthy. Thanks for stopping by!
 ```
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Deep+Learning;Python+%7C+Java+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Deep+Learning;Python+%7C+Java+Developer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
@@ -125,7 +123,6 @@ Projects built while learning:
 
 - 🤖 Learning Machine Learning & Deep Learning
 - 🧠 Strengthening Data Structures & Algorithms
-- 🌐 Improving Web Development Skills
 - 📚 Building AI/ML Projects
 - 💼 Preparing for AI/ML Internships
 
