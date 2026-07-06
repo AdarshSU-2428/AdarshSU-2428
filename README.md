@@ -23,14 +23,18 @@ Hope you're having a wonderful day and staying healthy. Thanks for stopping by!
 - Backend Development
 - Problem Solving
 
-🌱 **Currently Learning**
+## 📚 Current Learning Journey
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
+Currently strengthening my skills in:
+
 - Python
 - Java
-- HTML, CSS & JavaScript
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- HTML, CSS & JavaScript (for AI application frontends)
+
+I'm continuously building my knowledge and look forward to creating more projects as I progress.
 
 🎯 **Career Goal**
 
@@ -66,11 +70,12 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge)
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 RAG Chatbot
+### 🤖 RAG Chatbot
+A Retrieval-Augmented Generation chatbot that answers questions from uploaded documents using semantic search and large language models.
 
-A Retrieval-Augmented Generation chatbot capable of answering questions from uploaded documents using semantic search and LLMs.
+> More AI/ML projects coming soon!
 
 ---
 
@@ -79,20 +84,9 @@ A Retrieval-Augmented Generation chatbot capable of answering questions from upl
 A structured repository documenting my learning journey in:
 
 - Python
-- Mathematics for Machine Learning
 - Machine Learning
 - Deep Learning
 - Data Structures & Algorithms
-
----
-
-## 🌐 Web Development Portfolio
-
-Projects built while learning:
-
-- HTML
-- CSS
-- JavaScript
 
 ---
 
