@@ -151,13 +151,9 @@ When I'm not coding, you'll probably find me:
 
 # 🐍 Contribution Snake
 
-> Create this using GitHub Actions.
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
