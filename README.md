@@ -145,7 +145,11 @@ When I'm not coding, you'll probably find me:
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdarshSU-2428/AdarshSU-2428/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdarshSU-2428/AdarshSU-2428/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://github.com/AdarshSU-2428/AdarshSU-2428/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
