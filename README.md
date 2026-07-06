@@ -1,5 +1,5 @@
 ```markdown
-# Hi 👋, I'm Adarsh Sahoo
+# Hi 👋, I'm Adarsh S. Sahoo
 
 ### Welcome to my GitHub profile! 😊
 
