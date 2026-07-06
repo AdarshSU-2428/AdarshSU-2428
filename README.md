@@ -149,11 +149,9 @@ When I'm not coding, you'll probably find me:
 
 ---
 
-# 🐍 Contribution Snake
-
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
