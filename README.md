@@ -21,7 +21,6 @@ Hope you're having a wonderful day and staying healthy. Thanks for stopping by!
 - Artificial Intelligence & Machine Learning
 - Software Engineering
 - Backend Development
-- Web Development
 - Problem Solving
 
 🌱 **Currently Learning**
@@ -113,12 +112,6 @@ Projects built while learning:
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AdarshSU-2428&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
 # 📅 Current Focus
 
 - 🤖 Learning Machine Learning & Deep Learning
@@ -160,7 +153,11 @@ When I'm not coding, you'll probably find me:
 
 > Create this using GitHub Actions.
 
-![Snake animation](https://github.com/AdarshSU-2428/AdarshSU-2428/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AdarshSU-2428/AdarshSU-2428/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
