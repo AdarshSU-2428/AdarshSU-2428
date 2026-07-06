@@ -70,15 +70,6 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge)
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 RAG Chatbot
-A Retrieval-Augmented Generation chatbot that answers questions from uploaded documents using semantic search and large language models.
-
-> More AI/ML projects coming soon!
-
----
-
 ## 📚 AI/ML Learning Repository
 
 A structured repository documenting my learning journey in:
