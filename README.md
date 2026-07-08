@@ -128,12 +128,6 @@ When I'm not coding, you'll probably find me:
 
 ---
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=AdarshSU-2428&style=for-the-badge)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
