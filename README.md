@@ -76,6 +76,16 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 
 ---
 
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AdarshSU-2428&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSU-2428&layout=compact&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshSU-2428&theme=tokyonight)
+
+---
+
 ## 📚 AI/ML Learning Repository
 
 A structured repository documenting my learning journey in:
@@ -84,16 +94,6 @@ A structured repository documenting my learning journey in:
 - Machine Learning
 - Deep Learning
 - Data Structures & Algorithms
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AdarshSU-2428&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSU-2428&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshSU-2428&theme=tokyonight)
 
 ---
 
