@@ -72,17 +72,20 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 
 # 📊 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshSU-2428&theme=tokyo-night)](https://github.com/AdarshSU-2428)
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshSU-2428&theme=tokyo-night&hide_border=true)](https://github.com/AdarshSU-2428)
 
 ---
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AdarshSU-2428&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdarshSU-2428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSU-2428&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSU-2428&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshSU-2428&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdarshSU-2428&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -122,7 +125,7 @@ When I'm not coding, you'll probably find me:
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adarsh-s-sahoo-a3b291382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-s-sahoo-a3b291382)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AdarshSU-2428)
 
