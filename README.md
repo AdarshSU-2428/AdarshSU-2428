@@ -91,9 +91,7 @@ A structured repository documenting my learning journey in:
 
 ---
 
-# 📊 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshSU-2428&theme=tokyo-night)](https://github.com/AdarshSU-2428)
 
 ---
 
