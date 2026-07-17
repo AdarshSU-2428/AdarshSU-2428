@@ -76,14 +76,6 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdarshSU-2428&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📚 AI/ML Learning Repository
 
 A structured repository documenting my learning journey in:
