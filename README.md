@@ -70,12 +70,6 @@ Become an AI Engineer and build intelligent systems that solve real-world proble
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge)
 ---
 
-# 📊 GitHub Activity Graph
-
-[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshSU-2428&theme=tokyo-night&hide_border=true)](https://github.com/AdarshSU-2428)
-
----
-
 ## 📚 AI/ML Learning Repository
 
 A structured repository documenting my learning journey in:
